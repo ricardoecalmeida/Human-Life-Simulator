@@ -1,0 +1,100 @@
+tipo;nome;custo;estatuto;lotacaoMax;marca;modelo;formal
+AcessorioModa;Anel de pedras preciosas;500;50;0;Swarowski;0;TRUE
+Imovel;Apartamento T0, Rua Costa Cabral;15000;15;0;0;0;0
+Imovel;Apartamento T0, Rua Miguel Bombarda;15000;15;0;0;0;0
+Imovel;Apartamento T1, Rua da Constituição;20000;20;1;0;0;0
+Imovel;Apartamento T1, Rua Martim Moniz;20000;20;1;0;0;0
+Imovel;Apartamento T2, Rua da Boavista;25000;25;2;0;0;0
+Imovel;Apartamento T2, Rua do Almada;25000;25;2;0;0;0
+Imovel;Apartamento T3, Rua da Vilarinha;27500;28;3;0;0;0
+Imovel;Apartamento T3, Rua Faria Guimarães;27500;28;3;0;0;0
+Imovel;Apartamento T4, Av. Fernão de Magalhães;30000;30;4;0;0;0
+Imovel;Apartamento T4, Rua do Crasto;30000;30;4;0;0;0
+Imovel;Apartamento T5, Rua de Camões;35000;35;5;0;0;0
+Imovel;Apartamento T5, Rua Monte dos Burgos;35000;35;5;0;0;0
+Imovel;Arrecadação, Rua do Cerco do Porto;250;2;0;0;0;0
+Veiculo;Autocarro;30000;300;0;MAN;Lion's City;0
+Veiculo;Automóvel Carrinha;3000;30;0;Kia;Ceed Sportswagon;0
+Veiculo;Automóvel Carrinha;5000;50;0;Volkswagen;Passat;0
+Veiculo;Automóvel Citadino;2000;20;0;Ford;Fiesta;0
+Veiculo;Automóvel Citadino;2000;20;0;Opel;Corsa;0
+Veiculo;Automóvel Colecção;5000;50;0;Citroën;2CV;0
+Veiculo;Automóvel Comercial;2750;28;0;Peugeot;Partner;0
+Veiculo;Automóvel Comercial;2750;28;0;Renault;Kangoo;0
+Veiculo;Automóvel de Beta;20000;20;0;FIAT;500;0
+Veiculo;Automóvel de Guna;2000;20;0;FIAT;Punto;0
+Veiculo;Automóvel de Guna;2000;20;0;Seat;Ibiza;0
+Veiculo;Automóvel Desportivo;15000;150;0;Mercedes;SL;0
+Veiculo;Automóvel Desportivo;17500;175;0;Porsche;911 Carrera;0
+Veiculo;Automóvel Eléctrico;4500;45;0;Tesla;Model Y;0
+Veiculo;Automóvel Eléctrico;9000;90;0;Volvo;EX90;0
+Veiculo;Automóvel Jipe;9000;90;0;Land Rover;Defender;0
+Veiculo;Automóvel Luxury Premium Prestige;30000;300;0;Bentley;Flying Spur;0
+Veiculo;Automóvel Super Desportivo;25000;250;0;Ferrari;Portofino;0
+Veiculo;Automóvel Super Desportivo;50000;500;0;Lamborghini;Aventador;0
+Veiculo;Automóvel SUV;6000;60;0;Mazda;CX-60;0
+Veiculo;Automóvel SUV;7500;75;0;Toyota;Highlander;0
+Veiculo;Barco insuflável;20;2;0;Decathlon;Intex;0
+Imovel;Barraco, Rua Carvalho Barbosa;1000;5;0;0;0;0
+AcessorioModa;Bikini;30;3;0;Triumph;0;FALSE
+AcessorioModa;Boné do Benfica;5;-100;0;Made in China;0;FALSE
+AcessorioModa;Boné do FC Porto;5;0;0;Made in China;0;FALSE
+AcessorioModa;Brincos;3;0;0;Parfois;0;FALSE
+AcessorioModa;Calças à boca de sino;50;5;0;Levi’s;0;FALSE
+AcessorioModa;Calças formais;100;10;0;Massimo Dutti;0;TRUE
+AcessorioModa;Calções;15;2;0;Zara;0;FALSE
+AcessorioModa;Camisa;20;2;0;Gucci;0;TRUE
+Imovel;Casota para Cão;50;5;0;0;0;0
+AcessorioModa;Chinelos;10;1;0;Havaianas;0;FALSE
+AcessorioModa;Cinto;50;5;0;Burberry;0;TRUE
+AcessorioModa;Colar;250;25;0;Tous;0;TRUE
+AcessorioModa;Cuecas do Boavista;5;0;0;Made in China;0;FALSE
+Imovel;Escritório, Av. dos Aliados;1000;10;0;0;0;0
+AcessorioModa;Fanny pack;5;0;0;Made in China;0;FALSE
+AcessorioModa;Fato;250;25;0;Hugo Boss;0;TRUE
+Imovel;Garagem, Rua Júlio Dinis;250;2;0;0;0;0
+AcessorioModa;Gravata formal;100;10;0;Hermès;0;TRUE
+AcessorioModa;Gravata irónica;5;0;0;Wish;0;FALSE
+Veiculo;Jet Ski;1500;75;0;Sea-Doo;GTRX;0
+Veiculo;Limousine;1000000;1000;0;Rolls Royce;Silver Spur (Sultão do Brunei);0
+AcessorioModa;Mankini;30;3;0;AliExpress;0;FALSE
+Imovel;Mansão, Av. Marechal Gomes da Costa;500000;500;20;0;0;0
+Imovel;Mansão, Praça Mouzinho de Albuquerque;500000;500;20;0;0;0
+AcessorioModa;Mini-saia;20;2;0;Bershka;0;FALSE
+Veiculo;Moliceiro;1000;10;0;Beira-Mar;Rei da Ria;0
+Veiculo;Monociclo;125;5;0;QU-AX;OnlyOne 16;0
+Imovel;Moradia T2, Rua da Alegria;30000;30;2;0;0;0
+Imovel;Moradia T2, Rua do Passeio Alegre;30000;30;2;0;0;0
+Imovel;Moradia T3, Av. Dr. Antunes Guimarães;35000;35;3;0;0;0
+Imovel;Moradia T3, Rua do Heroísmo;35000;35;3;0;0;0
+Imovel;Moradia T4, Rua Costa Cabral;40000;40;4;0;0;0
+Imovel;Moradia T4, Rua de S. Victor;40000;40;4;0;0;0
+Imovel;Moradia T5, Av. dos Combatentes da Grande Guerra;50000;50;5;0;0;0
+Imovel;Moradia T5, Praça Marquês de Pombal;50000;50;5;0;0;0
+Imovel;Moradia T6, Av. Montevideu;75000;75;6;0;0;0
+Imovel;Moradia T6, Rua D. Pedro V;75000;75;6;0;0;0
+Veiculo;Mota de Motoqueiro;3000;30;0;Harley-Davidson;Fat Boy;0
+Veiculo;Moto Desportiva;700;7;0;Kawasaki;Ninja;0
+AcessorioModa;Óculos de sol;30;3;0;Ray-Ban;0;TRUE
+Imovel;Palacete, Av. Brasil;250000;250;10;0;0;0
+Imovel;Palacete, Rua Guerra Junqueiro;250000;250;10;0;0;0
+Veiculo;Papa-Reformas;1200;12;0;Aixam;Minauto Access;0
+AcessorioModa;Pasta de executivo;100;10;0;LV;0;TRUE
+AcessorioModa;Piercing;5;0;0;Buraco na Hora;0;FALSE
+AcessorioModa;Pochette;50;5;0;Cavalinho;0;TRUE
+AcessorioModa;Pulseira;30;3;0;Pandora;0;TRUE
+Imovel;Quarto, Rua de Contumil;500;3;0;0;0;0
+AcessorioModa;Relógio analógico;1000000;1000;0;Rolex Paul Newman’s Daytona;0;TRUE
+AcessorioModa;Relógio digital;5;0;0;Casio F-91W;0;FALSE
+AcessorioModa;Sapatilhas;30;3;0;Puma;0;FALSE
+AcessorioModa;Sapatos de pele;50;5;0;Prada;0;TRUE
+AcessorioModa;Sapatos de vela;40;4;0;Ralph Lauren;0;FALSE
+Veiculo;Scooter;600;6;0;Piaggio;Vespa;0
+AcessorioModa;Smart Watch;350;35;0;Apple;0;FALSE
+AcessorioModa;Strap-on;50;5;0;SexToys;0;FALSE
+AcessorioModa;T-shirt do Tobias;10;100;0;Fruit of the Loom;0;FALSE
+AcessorioModa;Tatuagem;1;0;0;Bollycao;0;FALSE
+Imovel;Terreno, Estrada da Circunvalação;1000;10;0;0;0;0
+Veiculo;Tractor;3500;10;0;John Deere;5050E;0
+Veiculo;Triciclo;10;1;0;Chicco;U-Go;0
+Veiculo;Trotinete;30;3;0;Xiaomi;Electric Scooter 4 Go;0
